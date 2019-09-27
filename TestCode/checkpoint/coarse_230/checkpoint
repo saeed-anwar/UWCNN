@@ -1,0 +1,9 @@
+model_checkpoint_path: "coarse.model-typeIII"
+model_checkpoint_path: "coarse.model-type1"
+model_checkpoint_path: "coarse.model-type3"
+model_checkpoint_path: "coarse.model-type5"
+model_checkpoint_path: "coarse.model-type7"
+model_checkpoint_path: "coarse.model-type9"
+model_checkpoint_path: "coarse.model-typeI"
+model_checkpoint_path: "coarse.model-typeII"
+
