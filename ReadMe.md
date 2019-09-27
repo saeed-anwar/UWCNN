@@ -82,17 +82,17 @@ The performance of state-of-the-art algorithms on widely used publicly available
 
 ### Synthetic Visual  Results
 ![Visual_Synthetic](/Figs/Synth.png)
-Comparison on more samples from DnD. The sharpness of the edges on the objects and textures restored by our method is the best.
+(a) Raw underwater images. (b) Results of RED [21]. (c) Results of UDCP [22]. (d) Results of ODM [25]. (e) Results of UIBLA [26]. (f) Our results. (g) Ground truth. The types of underwater images in the first column from top to bottom are Type-1, Type-3, Type-5, Type-7, Type-9, Type-I, Type-II, and Type-III. Our method removes the light absorption effects and recovers the original colors without any artifacts.
 
 ### Real Visual  Results
-<p align="center">
-  <img width="700" src="https://github.com/saeed-anwar/UWCNN/blob/master/Figs/Real.png">
-</p>
 
-Fig. 6. Qualitative comparisons on real-world underwater images. (a) Real-world underwater images. (b) Results of RED [21]. (c) Results of UDCP [22]. (d) Results of ODM [25]. (e) Results of UIBLA [26]. (f) Results of our UWCNN. (g) Results of our UWCNN+. Our method (i.e., UWCNN and UWCNN+) produces the results without any visual artifacts, color deviations, and over-saturations. It also unveils spatial motifs and details.
+![Visual_Real](/Figs/Real.png)
+
+(a) Real-world underwater images. (b) Results of RED [21]. (c) Results of UDCP [22]. (d) Results of ODM [25]. (e) Results of UIBLA [26]. (f) Results of our UWCNN. (g) Results of our UWCNN+. Our method (i.e., UWCNN and UWCNN+) produces the results without any visual artifacts, color deviations, and over-saturations. It also unveils spatial motifs and details.
+
 ### Video Visual  Results
 ![Visual_VideoFrames](/Figs/Videoframes.png)
-Comparison on more samples from DnD. The sharpness of the edges on the objects and textures restored by our method is the best.
+(a) Raw underwater video (from top to bottom are frame 1, frame 2, frame 3, frame 4, frame 29, and frame 54 in this video). (b) Results of RED [21]. (c) Results of UDCP [22]. (d) Results of ODM [25]. (e) Results of UIBLA [26]. (f) Results of our UWCNN.
 
 ## Citation
 If you find the code helpful in your resarch or work, please cite the following papers.
