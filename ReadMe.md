@@ -22,12 +22,21 @@ In underwater scenes, wavelength-dependent light absorption and scattering degra
 To synthesize underwater image degradation datasets, we use the attenuation coefficients described in Table 1 for the different water types of oceanic and coastal classes (i.e., I, IA, IB, II, and III for open ocean waters, and 1, 3, 5, 7, and 9 for coastal waters). Type-I is the clearest and Type-III is the most turbid open ocean water. Similarly, for coastal waters, Type-1 is the clearest and Type-9 is the most turbid. We apply Eqs (1) and (2) (please check the paper) to build ten types of underwater image datasets by using the RGB-D NYU-v2 indoor dataset which consists of 1449 images. To improve the quality of datasets, we crop the original size (480*640) of NYU-v2 to 460*620. This dataset is for non-commercial use only.
 
 [Type-I]   [Baidu](https://pan.baidu.com/s/13k3qNGG93aFwdthjRtxi3Q)
+
 [Type-IA]  [Baidu](https://pan.baidu.com/s/13lRAbZYyYLyb-Z8qcpW-4Q)
+
 [Type-IB]  [Baidu](https://pan.baidu.com/s/12qXACo20C6ee9bViItZAFA)
+
 [Type-II]  [Baidu](https://pan.baidu.com/s/1iZM9md_mdeHXqw3XchvKHg)
+
 [Type-III] [Baidu](https://pan.baidu.com/s/1fIKVcvU6jg5Mi0Sw-k8VmA)
+
 [Type-1]   [Baidu](https://pan.baidu.com/s/1V10iXd9QnFbevm17Ua0jwQ)
+
 [Type-3]   [Baidu](https://pan.baidu.com/s/1DEI4T700jmU-cUYgAxRQAw)
+
 [Type-5]   [Baidu](https://pan.baidu.com/s/1jlPodNRPqySGnFxr7-qRRg)
+
 [Type-7]   [Baidu](https://pan.baidu.com/s/12l0gCsPYOtEx7hCvp9C-fw)
+
 [Type-9]   [Baidu](https://pan.baidu.com/s/1IPKimxXA1CsX3wjRE4VYNQ)
