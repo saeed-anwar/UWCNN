@@ -76,7 +76,7 @@ Type-9:   [[Baidu]](https://pan.baidu.com/s/1IPKimxXA1CsX3wjRE4VYNQ)
 
 ### Quantitative Results
 <p align="center">
-  <img width="500" src="https://github.com/saeed-anwar/UWCNN/blob/master/Figs/Test_table.png">
+  <img width="700" src="https://github.com/saeed-anwar/UWCNN/blob/master/Figs/Test_table.png">
 </p>
 The performance of state-of-the-art algorithms on widely used publicly available datasets in terms of PSNR (in dB), MSE and SSIM. The best results are highlighted in bold.
 
