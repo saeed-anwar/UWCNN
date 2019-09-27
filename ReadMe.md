@@ -81,21 +81,17 @@ Type-9:   [[Baidu]](https://pan.baidu.com/s/1IPKimxXA1CsX3wjRE4VYNQ)
 The performance of state-of-the-art algorithms on widely used publicly available datasets in terms of PSNR (in dB), MSE and SSIM. The best results are highlighted in bold.
 
 ### Synthetic Visual  Results
-![Visual_PSNR_Synthetic2](/Figs/Synth2.png)
+![Visual_Synthetic](/Figs/Synth.png)
 Comparison on more samples from DnD. The sharpness of the edges on the objects and textures restored by our method is the best.
 
 ### Real Visual  Results
 <p align="center">
-  <img width="700" src="https://github.com/saeed-anwar/UWCNN/blob/master/Figs/Real1.png">
-</p>
-<p align="center">
-  <img width="700" src="https://github.com/saeed-anwar/UWCNN/blob/master/Figs/Real2.png">
+  <img width="700" src="https://github.com/saeed-anwar/UWCNN/blob/master/Figs/Real.png">
 </p>
 
-Comparison on more samples from DnD. The sharpness of the edges on the objects and textures restored by our method is the best.
-
+Fig. 6. Qualitative comparisons on real-world underwater images. (a) Real-world underwater images. (b) Results of RED [21]. (c) Results of UDCP [22]. (d) Results of ODM [25]. (e) Results of UIBLA [26]. (f) Results of our UWCNN. (g) Results of our UWCNN+. Our method (i.e., UWCNN and UWCNN+) produces the results without any visual artifacts, color deviations, and over-saturations. It also unveils spatial motifs and details.
 ### Video Visual  Results
-![Visual_PSNR_VideoFrames](/Figs/Videoframes.png)
+![Visual_VideoFrames](/Figs/Videoframes.png)
 Comparison on more samples from DnD. The sharpness of the edges on the objects and textures restored by our method is the best.
 
 ## Citation
