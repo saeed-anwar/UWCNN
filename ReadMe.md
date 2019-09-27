@@ -87,11 +87,9 @@ The performance of state-of-the-art algorithms on widely used publicly available
 Comparison on more samples from DnD. The sharpness of the edges on the objects and textures restored by our method is the best.
 
 ### Real Visual  Results
-![Visual_PSNR_Real1](/Figs/Real1.png)
 <p align="center">
   <img width="700" src="https://github.com/saeed-anwar/UWCNN/blob/master/Figs/Real1.png">
 </p>
-![Visual_PSNR_Real2](/Figs/Real2.png)
 <p align="center">
   <img width="700" src="https://github.com/saeed-anwar/UWCNN/blob/master/Figs/Real2.png">
 </p>
