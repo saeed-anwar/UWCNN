@@ -2,8 +2,7 @@
 This repository is for Underwater Scene Prior Inspired Deep Underwater Image and Video Enhancement (UWCNN) introduced in the following paper
 
 # Paper
-[Chongyi Li](https://li-chongyi.github.io/),[Saeed Anwar](https://saeed-anwar.github.io/),  [Fatih Porikli](porikli.com), "Underwater Scene Prior Inspired Deep Underwater Image and Video Enhancement", [Pattern Recognition, 2019](https://www.sciencedirect.com/science/article/pii/S0031320319303401).
-The [arxiv](https://arxiv.org/pdf/1807.03528.pdf) can be found here.
+[Chongyi Li](https://li-chongyi.github.io/),[Saeed Anwar](https://saeed-anwar.github.io/),  [Fatih Porikli](porikli.com), ["Underwater Scene Prior Inspired Deep Underwater Image and Video Enhancement"](https://www.sciencedirect.com/science/article/pii/S0031320319303401), Pattern Recognition, 2019. [[arxiv]](https://arxiv.org/pdf/1807.03528.pdf) can be found here.
 
  ## Contents
 1. [Introduction](#introduction)
