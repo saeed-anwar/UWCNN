@@ -36,7 +36,7 @@ tensorflow =1.0.0
 
 ### Quick start
 
-1. Download the trained models and place them in 'checkpoint/coarse_230/'
+1. The trained models are in 'checkpoint/coarse_230/'
 2. Choose the needed model (For example, if you need the type 1 model, please put 'model_checkpoint_path: "coarse.model-type1"' on the first line of checkpoint text.)
 3. Put the test images into 'test_real'
 
@@ -50,7 +50,7 @@ tensorflow =1.0.0
 
 ## Datasets
 ### Synthesized
-To synthesize underwater image degradation datasets, we use the attenuation coefficients described in Table 1 for the different water types of oceanic and coastal classes (i.e., I, IA, IB, II, and III for open ocean waters, and 1, 3, 5, 7, and 9 for coastal waters). Type-I is the clearest and Type-III is the most turbid open ocean water. Similarly, for coastal waters, Type-1 is the clearest and Type-9 is the most turbid. We apply Eqs (1) and (2) (please check the paper) to build ten types of underwater image datasets by using the RGB-D NYU-v2 indoor dataset which consists of 1449 images. To improve the quality of datasets, we crop the original size (480*640) of NYU-v2 to 460*620. This dataset is for non-commercial use only. The size of each dataset is *1.2GB*
+To synthesize underwater image degradation datasets, we use the attenuation coefficients described in Table 1 for the different water types of oceanic and coastal classes (i.e., I, IA, IB, II, and III for open ocean waters, and 1, 3, 5, 7, and 9 for coastal waters). Type-I is the clearest and Type-III is the most turbid open ocean water. Similarly, for coastal waters, Type-1 is the clearest and Type-9 is the most turbid. We apply Eqs (1) and (2) (please check the paper) to build ten types of underwater image datasets by using the RGB-D NYU-v2 indoor dataset which consists of 1449 images. To improve the quality of datasets, we crop the original size (480*640) of NYU-v2 to 460*620. This dataset is for non-commercial use only. The size of each dataset is **1.2GB**
 
 Type-I:   [[Baidu]](https://pan.baidu.com/s/13k3qNGG93aFwdthjRtxi3Q)
 
