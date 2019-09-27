@@ -81,9 +81,7 @@ Type-9:   [[Baidu]](https://pan.baidu.com/s/1IPKimxXA1CsX3wjRE4VYNQ)
 The performance of state-of-the-art algorithms on widely used publicly available datasets in terms of PSNR (in dB), MSE and SSIM. The best results are highlighted in bold.
 
 ### Synthetic Visual  Results
-![Visual_PSNR_Synthetic1](/Figs/Synth1.png)
 ![Visual_PSNR_Synthetic2](/Figs/Synth2.png)
-![Visual_PSNR_Synthetic3](/Figs/Synth3.png)
 Comparison on more samples from DnD. The sharpness of the edges on the objects and textures restored by our method is the best.
 
 ### Real Visual  Results
