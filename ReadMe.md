@@ -76,7 +76,7 @@ Type-9:   [[Baidu]](https://pan.baidu.com/s/1IPKimxXA1CsX3wjRE4VYNQ)
 
 ### Quantitative Results
 <p align="center">
-  <img width="500" src="https://github.com/saeed-anwar/UWCNN/blob/master/Figs/Test_table.PNG">
+  <img width="500" src="https://github.com/saeed-anwar/UWCNN/blob/master/Figs/Test_table.png">
 </p>
 The performance of state-of-the-art algorithms on widely used publicly available datasets in terms of PSNR (in dB), MSE and SSIM. The best results are highlighted in bold.
 
@@ -96,7 +96,7 @@ Comparison on more samples from DnD. The sharpness of the edges on the objects a
 
 Comparison on more samples from DnD. The sharpness of the edges on the objects and textures restored by our method is the best.
 
-### Videi Visual  Results
+### Video Visual  Results
 ![Visual_PSNR_VideoFrames](/Figs/Videoframes.png)
 Comparison on more samples from DnD. The sharpness of the edges on the objects and textures restored by our method is the best.
 
