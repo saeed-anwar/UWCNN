@@ -1,8 +1,8 @@
 ### Requirements
-python = 3.5
-tensorflow =1.0.0
-scipy = 1.1.0 (required)
-Tested with python=3.6 and Tensorflow=1.14.0
+python = 3.5 <br/>
+tensorflow =1.0.0 <br/>
+scipy = 1.1.0 (required)<br/>
+Tested with python=3.6 and Tensorflow=1.14.0 <br/>
 ### Quick start
 
 1. The trained models are in 'checkpoint/coarse_230/'
