@@ -110,10 +110,13 @@ If you find the code helpful in your resarch or work, please cite the following 
   author = "Chongyi Li and Saeed Anwar and Fatih Porikli",
 }
 
-@article{anwar2019diving,
+@article{anwar2020diving,
   title={Diving Deeper into Underwater Image Enhancement: A Survey},
   author={Anwar, Saeed and Li, Chongyi},
-  journal={arXiv preprint arXiv:1907.07863},
-  year={2019}
+  journal={Signal Processing: Image Communication},
+  volume={89},
+  pages={115978},
+  year={2020},
+  publisher={Elsevier}
 }
 ```
